@@ -70,7 +70,7 @@ nav{
 nav>a{
     border-radius: 5px;
     color: var(--cor1);
-    padding: 10px;
+    padding: 5px;
     transition-duration: 1s;
     font-weight: bold;
     text-decoration: none;
